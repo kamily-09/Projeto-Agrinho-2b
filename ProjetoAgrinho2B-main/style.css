@@ -8,21 +8,21 @@ body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   line-height: 1.6;
   background: linear-gradient(to bottom, #fff4e2, #e0f7fa);
-  color: #464444;
+  color: #000000;
   padding: 20px;
 }
 
 header {
-  background-color: #cc671f;
+  background-color: #0e7a13;
   text-align: center;
   padding: 40px 20px;
   border-radius: 12px;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  box-shadow: 0 4px 10px rgba(153, 127, 127, 0.1);
 }
 
 header h1, header p {
   font-family: 'Quicksand', sans-serif;
-  color: #fff2e4;
+  color: #000000;
 }
 
 header h1 {
@@ -37,14 +37,14 @@ header p {
 .intro, .galeria, .curiosidades {
   margin: 40px 0;
   padding: 20px;
-  background-color: #ffffffcc;
+  background-color: #c5f5becc;
   border-radius: 10px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+  box-shadow: 0 2px 8px rgb(197, 255, 214);
 }
 
 .intro h2, .galeria h2, .curiosidades h2 {
   font-size: 1.8em;
-  color: #2e7d32;
+  color: #010102d8;
   margin-bottom: 10px;
 }
 
